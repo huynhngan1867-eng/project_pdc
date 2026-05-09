@@ -23,8 +23,7 @@ p {
   font-size: 20px;
 }
 table {
-  width: 70%;
-  max-width: 100%;
+  width: 400;
   margin-right: auto;
   margin-left: auto;
   color: white;
@@ -33,11 +32,7 @@ table {
   font-family: 'Playfair Display';
   border-collapse: collapse;
 }
-.table-container {
-  width: 100%;
-  overflow-x: auto; /* Tạo thanh cuộn khi bảng quá rộng */
-  -webkit-overflow-scrolling: touch; /* Giúp cuộn mượt hơn trên iPhone */
-}
+
 ul { 
   display:flex;
   justify-content: center; 
